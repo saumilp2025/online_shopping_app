@@ -9,7 +9,7 @@ env:
 phases:
   install:
     runtime-versions:
-      nodejs: 12.2.0
+      nodejs: 12
     commands:
       - echo Installing Node.js and npm...
       - n 12.2.0
