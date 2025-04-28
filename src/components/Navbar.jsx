@@ -39,7 +39,7 @@ export function Navbar() {
                             <FontAwesomeIcon icon={faGithub} />
                         </a>
                         <a 
-                            href="https://www.trainwithshubham.com/s/pages/junoonbatch9" 
+                            href="https://github.com/saumilp2025/online_shopping_app.git" 
                             target="_blank" 
                             rel="noopener noreferrer"
                             className="social-button"
