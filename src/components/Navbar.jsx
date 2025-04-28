@@ -15,7 +15,7 @@ export function Navbar() {
             <Container className="d-flex justify-content-between align-items-center">
                 <NavLink to="/" className="navbar-brand">
                     <img src="/imgs/logo.svg" alt="Logo" width="30" height="30" />Saumil Pandya
-                    <span className="text-primary text-color">MSCIT (Batch 9)</span>
+                    <span className="text-primary text-color">MScIT (Batch 9)</span>
                 </NavLink>
 
                 <div className="d-flex align-items-center gap-3">
