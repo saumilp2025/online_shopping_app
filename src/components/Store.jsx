@@ -4,7 +4,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import { useState } from "react";
 import { ClipLoader } from "react-spinners";
 
-export function Store() {
+export function Stores() {
     const { products, isLoadingProducts, error } = useShoppingItems();
     const [searchQuery, setSearchQuery] = useState("");
 
